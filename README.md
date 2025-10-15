@@ -32,7 +32,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 ![Snake animation](https://github.com/MathJoones/MathJoones/blob/output/snake-dark.svg)
 
 
-
 ---
 
 ## 📫 Contato
