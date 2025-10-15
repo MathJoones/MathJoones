@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake (Dark Theme)
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+    - cron: "0 0 * * *"  # Gera todo dia à meia-noite
   workflow_dispatch:
   push:
     branches:
@@ -16,11 +16,11 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v4
 
-      - name: Generate Snake animation
+      - name: Generate Snake animation (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#0d1117
 
       - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
