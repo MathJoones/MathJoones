@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 
 </div>
 
-![Snake animation](https://github.com/MathJoones/MathJoones/blob/output/snake-dracula.svg)
+![Snake animation](https://github.com/MathJoones/MathJoones/blob/output/snake-dark.svg)
 
 
 ---
