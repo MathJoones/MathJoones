@@ -37,11 +37,13 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ## 🧩 Estatísticas do GitHub  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathJoones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=8&theme=dracula"/>
-    <img src="https://streak-stats.demolab.com?user=MathJoones&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=MathJoones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+
 
 
 
