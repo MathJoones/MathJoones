@@ -15,6 +15,13 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MathJoones&theme=dracula&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
 ##
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,19 +36,19 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 
 </div>
 
+## 💡 O que você vai encontrar por aqui
+
+- Projetos pessoais e acadêmicos
+- Repositórios de exemplos e experimentações
+
+
+
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.icons8.com/?size=40&id=13930&format=png&color=000000)](https://www.linkedin.com/in/matheus-cardoso-de-oliveira-3925211ab/)   
+[![LinkedIn](https://img.icons8.com/?size=40&id=13930&format=png&color=000000)](https://www.linkedin.com/in/matheus-cardoso-de-oliveira-3925211ab/)      [![OutLook](https://img.icons8.com/?size=40&id=117562&format=png&color=000000)](https://outlook.live.com/mail/0/matheussoliveira@hotmail.com)[![Whats](https://img.icons8.com/?size=40&id=16713&format=png&color=000000)](https://wa.me/5541998485792/)
 
-![OutLook](https://img.icons8.com/?size=40&id=117562&format=png&color=000000)()
-
-
-## 💡 O que você vai encontrar por aqui
-
-- Projetos pessoais e acadêmicos
-- Repositórios de exemplos e experimentações
 
 ---
