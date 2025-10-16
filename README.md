@@ -29,15 +29,15 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 
 </div>
 
-![Snake animation](https://github.com/MathJoones/MathJoones/blob/output/snake-dark.svg)
-
 
 ---
 
 ## 📫 Contato
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cardoso-de-oliveira-3925211ab/)
-- E-mail: Matheussoliveira14@hotmail.com
+[![LinkedIn](https://img.icons8.com/?size=40&id=13930&format=png&color=000000)](https://www.linkedin.com/in/matheus-cardoso-de-oliveira-3925211ab/)   
+
+![OutLook](https://img.icons8.com/?size=40&id=117562&format=png&color=000000)()
+
 
 ## 💡 O que você vai encontrar por aqui
 
