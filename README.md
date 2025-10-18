@@ -43,8 +43,7 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
   <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-![snake animation](https://github.com/MathJoones/MathJoones/blob/output/github-contribution-grid-snake2.svg)
-
+![Snake animation](https://github.com/MathJoones/MathJoones/output/github-contribution-grid-snake.svg)
 
 ---
 
