@@ -38,12 +38,10 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 ## 🧩 Estatísticas do GitHub  
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=MathJoones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=MathJoones&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
-
-![Snake animation](https://github.com/MathJoones/MathJoones/output/github-contribution-grid-snake.svg)
 
 ---
 
