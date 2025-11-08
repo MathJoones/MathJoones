@@ -1,5 +1,7 @@
 <!-- 🎯 Modelo de README para Portfólio GitHub (Tema Dark) -->
 
+
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI1NjA5ODQsIm5iZiI6MTc2MjU2MDY4NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA4VDAwMTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzNmYzNmEyMGVlMThlMDA4ZmQ2Y2U2MjY1OTVmOTQ3YmY3OTg1YTNkNTI5OGQyOGFmNzJmOTZkZWY1ZTdhNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QoA5ZTRIRugXCC1f4uyjHum1KmZ32mSoH7fJRll-PTY"/>
 # 👋 Olá, eu sou o Matheus Cardoso de Oliveira  
 
 Bem-vindo ao meu portfólio no GitHub! 🚀  
@@ -32,7 +34,6 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
 </div>
-
 ---
 
 ## 🧩 Estatísticas do GitHub  
