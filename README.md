@@ -1,7 +1,8 @@
-<!-- 🎯 Modelo de README para Portfólio GitHub (Tema Dark) -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI1NjA5ODQsIm5iZiI6MTc2MjU2MDY4NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA4VDAwMTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzNmYzNmEyMGVlMThlMDA4ZmQ2Y2U2MjY1OTVmOTQ3YmY3OTg1YTNkNTI5OGQyOGFmNzJmOTZkZWY1ZTdhNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QoA5ZTRIRugXCC1f4uyjHum1KmZ32mSoH7fJRll-PTY"/>
 # 👋 Olá, eu sou o Matheus Cardoso de Oliveira  
 
 Bem-vindo ao meu portfólio no GitHub! 🚀  
@@ -19,10 +20,14 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</div>
+
+
 ## 🚀 Tecnologias e Ferramentas  
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -32,15 +37,12 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
-
 </div>
----
+
 
 ## 🧩 Estatísticas do GitHub  
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api?username=MathJoones&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathJoones&layout=compact&langs_count=8&theme=radical"/>
   <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
 
