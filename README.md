@@ -11,7 +11,7 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ---
 
-## 💫 Sobre mim  
+## Sobre mim  
 
 💻 Desenvolvedor em formação, com foco em **back-end e soluções web**  
 📚 Estudante de **Ciência da Computação**  
@@ -25,7 +25,7 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 </div>
 
 
-## 🚀 Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas  
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -40,7 +40,7 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 </div>
 
 
-## 🧩 Estatísticas do GitHub  
+## Estatísticas do GitHub  
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img height="150em" src="https://streak-stats.demolab.com?user=MathJoones&theme=radical&hide_border=false" alt="GitHub Streak"/>
@@ -48,7 +48,7 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ---
 
-## 🛠️ O que você vai encontrar por aqui  
+##  O que você vai encontrar por aqui  
 
 - Projetos pessoais e acadêmicos  
 - Experimentos e protótipos em desenvolvimento  
@@ -72,5 +72,5 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ---
 
-### 🧱 "A tecnologia é uma ferramenta para transformar ideias em impacto real."
+### "A tecnologia é uma ferramenta para transformar ideias em impacto real."
 
