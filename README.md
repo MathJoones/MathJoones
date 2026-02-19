@@ -46,16 +46,6 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 
 ---
 
-## 🧠 Projetos em Destaque  
-
-| 💼 Projeto | 🚀 Descrição | 🧾 Tecnologias |
-|------------|--------------|----------------|
-| [**Uhealth**](https://github.com/MathJoones/Uhealth) | Aplicativo de saúde e bem-estar com acompanhamento de atividades e notificações personalizadas. | Kotlin, Android Studio, SQLite |
-| [**ToDo Kotlin**](https://github.com/MathJoones/ToDoApp) | App de lista de tarefas offline com persistência local e design limpo. | Kotlin, MVVM, Room |
-| [**Álgebra Linear – UNIFIL**](https://github.com/MathJoones/AlgebraLinear) | Projeto acadêmico sobre combinações lineares e gráficos em Python. | Python, Matplotlib, NumPy |
-
----
-
 ## 🛠️ O que você vai encontrar por aqui  
 
 - Projetos pessoais e acadêmicos  
