@@ -3,10 +3,9 @@
 </div>
 
 
-# 👋 Olá, eu sou o Matheus Cardoso de Oliveira  
+# Olá, eu sou o Matheus Cardoso de Oliveira  
 
-Bem-vindo ao meu portfólio no GitHub! 🚀  
-Sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software.  
+Bem-vindo ao meu portfólio no GitHub! 🚀    
 Aqui você encontrará meus principais **projetos, estudos e contribuições** na área de tecnologia.  
 
 ---
