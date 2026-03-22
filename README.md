@@ -70,6 +70,3 @@ Aqui você encontrará meus principais **projetos, estudos e contribuições** n
 </p>
 
 ---
-
-### "A tecnologia é uma ferramenta para transformar ideias em impacto real."
-
